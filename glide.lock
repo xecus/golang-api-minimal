@@ -1,0 +1,9 @@
+hash: 5fedbe5f5a0bfc5caa8474fe519594b822b0fed89a041bf763358ca3b507b278
+updated: 2017-01-08T16:34:53.824027238Z
+imports:
+- name: github.com/ant0ine/go-json-rest
+  version: ce4b71cdf7ba29ef443d704bd923f5bbf281ee30
+  subpackages:
+  - rest
+  - rest/trie
+testImports: []
